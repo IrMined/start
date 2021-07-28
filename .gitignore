@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# project folders
+"C:\Users\user\Documents\PyCharm Project\ArtemStart\Include"
+"C:\Users\user\Documents\PyCharm Project\ArtemStart\Lib"
+"C:\Users\user\Documents\PyCharm Project\ArtemStart\Scripts"
+"C:\Users\user\Documents\PyCharm Project\ArtemStart\pyvenv.cfg"
